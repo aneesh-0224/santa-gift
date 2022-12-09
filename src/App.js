@@ -5,9 +5,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        {/* <img src={logo} className="App-logo" alt="logo" /> */}
+        {/* <img src={require('./images.png')} alt="tree" /> */}
+        <img src={require('./images2.jfif')} alt="tree" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Santa's GIFT for Christmas.
         </p>
         <a
           className="App-link"
@@ -15,7 +17,6 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
         </a>
       </header>
     </div>
