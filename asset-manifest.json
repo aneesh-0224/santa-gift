@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/santa-gift/static/css/main.073c9b0a.css",
+    "main.js": "/santa-gift/static/js/main.697311dd.js",
+    "static/js/787.dc564606.chunk.js": "/santa-gift/static/js/787.dc564606.chunk.js",
+    "static/media/images2.jfif": "/santa-gift/static/media/images2.67424209e98018bce89f.jfif",
+    "index.html": "/santa-gift/index.html",
+    "main.073c9b0a.css.map": "/santa-gift/static/css/main.073c9b0a.css.map",
+    "main.697311dd.js.map": "/santa-gift/static/js/main.697311dd.js.map",
+    "787.dc564606.chunk.js.map": "/santa-gift/static/js/787.dc564606.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.697311dd.js"
+  ]
+}
